@@ -2,7 +2,7 @@
   "name": "peterq/swoole-ws-rpc",
   "description": "浏览器通过websocket来调用服务器方法, 适用于大量服务器交互的web app",
   "type": "library",
-  "license": "GPL",
+  "license": "GPL-2.0-only",
   "authors": [
     {
       "name": "PeterQ",
